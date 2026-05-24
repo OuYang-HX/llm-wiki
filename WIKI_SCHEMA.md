@@ -15,10 +15,11 @@ All wiki pages under `wiki/` **MUST** follow Obsidian-flavored Markdown conventi
 | **Embeds** | Embed images with `![[image.png]]` and other pages with `![[page-name]]`. Avoid Markdown image syntax `![alt](path)`. |
 | **File naming** | Kebab-case: `my-page-name.md`. No spaces, no Chinese characters in filenames. Display titles (in frontmatter `title`) may use any language. |
 | **Folder structure** | Keep the existing `wiki/{sources,entities,concepts,syntheses,requirements,analyses}/` layer. Obsidian picks this up as folder-based navigation. |
+| **语言** | 页面内容、标题、正文、callout 均使用中文描述，仅保留行业通用专业词汇的英文原文（如 SDD、Vibe Coding、CLAUDE.md、CI 等）。文件名、frontmatter 的 `slug` 字段仍用英文/拼音，但 `title` 优先使用中文显示名。 |
 | **No HTML** | Avoid inline HTML. Use Markdown tables, callouts, and wikilinks instead. |
 | **Line width** | Soft wrap — no hard line breaks at 80 chars. Obsidian handles wrapping natively. |
 
-When the extension or model generates/updates wiki pages, it **MUST** apply these rules automatically. No post-processing step should be needed to make the vault Obsidian-compatible.
+当扩展或模型生成/更新 wiki 页面时，**必须**自动遵循以上规则，无需后处理即可在 Obsidian 中正常显示。
 
 ## Ownership Rules
 

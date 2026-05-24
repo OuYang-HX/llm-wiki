@@ -1,7 +1,7 @@
 ---
 title: Agent编码工具完整目录
 type: entity
-tags: [agent-dev, tools, reference]
+tags: [agent-dev, 工具, 参考]
 created: 2026-05-24
 updated: 2026-05-24
 sources:
@@ -18,9 +18,9 @@ Agent 编码工具生态系统，按使用模式分四大类别。
 
 | 工具 | Stars | 说明 |
 |------|-------|------|
-| Aider | 30K+ | 终端+IDE 双模式 AI pair programmer |
-| Claude Code | — | Anthropic 终端 agent |
-| OpenHands | 71K+ | 全自主终端 agent |
+| Aider | 30K+ | 终端+IDE 双模式 AI 结对编程 |
+| Claude Code | — | Anthropic 终端 Agent |
+| OpenHands | 71K+ | 全自主终端 Agent |
 
 ## IDE 原生
 
@@ -29,10 +29,10 @@ Agent 编码工具生态系统，按使用模式分四大类别。
 | 工具 | 规模 | 说明 |
 |------|------|------|
 | Cursor | — | AI 原生编辑器 |
-| Windsurf | — | AI IDE (Codeium) |
+| Windsurf | — | AI IDE（Codeium 出品） |
 | Kiro | — | SDD 集成 IDE |
-| Roo Code | 25K+ | VS Code agent 扩展 |
-| Cline | 8M+用户 | VS Code 自主 agent |
+| Roo Code | 25K+ | VS Code Agent 扩展 |
+| Cline | 8M+用户 | VS Code 自主 Agent |
 | Continue | 20K+ | 开源 IDE 扩展 |
 
 ## 自主/后台
@@ -43,7 +43,7 @@ Agent 编码工具生态系统，按使用模式分四大类别。
 |------|------|
 | Agent-OS | Agent 操作系统 |
 | Factory | 代码工厂 |
-| karl | 自主循环 agent |
+| karl | 自主循环 Agent |
 
 ## 辅助/加速
 

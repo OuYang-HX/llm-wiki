@@ -1,7 +1,7 @@
 ---
 title: Agent编码工具全景
 type: concept
-tags: [agent-dev, tools, landscape]
+tags: [agent-dev, 工具, 生态]
 created: 2026-05-24
 updated: 2026-05-24
 sources:
@@ -16,7 +16,7 @@ sources:
 
 | 类别 | 特点 | 代表工具 |
 |------|------|----------|
-| **终端原生** | CLI 驱动，灵活组合 | Aider, Claude Code, OpenHands |
+| **终端原生** | 命令行驱动，灵活组合 | Aider, Claude Code, OpenHands |
 | **IDE 原生** | 编辑器内集成，低切换成本 | Cursor, Windsurf, Kiro, Continue |
 | **自主/后台** | 最少人工干预，独立循环 | Agent-OS, Factory, karl |
 | **辅助/加速** | 增强人类效率，不替代 | GitHub Copilot, Tabnine |

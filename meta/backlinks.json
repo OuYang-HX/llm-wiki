@@ -5,20 +5,28 @@
     "concepts/agent-dev-project-catalog",
     "concepts/agent-dev-tool-landscape",
     "concepts/agent-driven-development-paradigms",
+    "concepts/pi-sdd-existing-project-playbook",
     "entities/agent-dev-project-catalog",
     "entities/agent-dev-tool-landscape",
     "sources/agent-dev-project-catalog-50-plus",
     "sources/agent-dev-top-10-lessons",
     "sources/agent-driven-development-paradigms-and-playbooks",
+    "sources/pi-sdd-existing-project-complete-playbook",
+    "sources/pi-sdd-existing-project-playbook-summary",
     "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide"
+    "syntheses/agent-driven-development-complete-guide",
+    "syntheses/pi-sdd-existing-project-playbook"
   ],
   "concepts/agent-dev-playbook-existing-project": [
     "concepts/agent-dev-key-lessons",
     "concepts/agent-dev-playbook-new-project",
     "concepts/agent-driven-development-paradigms",
+    "concepts/pi-sdd-existing-project-playbook",
     "sources/agent-driven-development-paradigms-and-playbooks",
-    "syntheses/agent-driven-development-complete-guide"
+    "sources/pi-sdd-existing-project-complete-playbook",
+    "sources/pi-sdd-existing-project-playbook-summary",
+    "syntheses/agent-driven-development-complete-guide",
+    "syntheses/pi-sdd-existing-project-playbook"
   ],
   "concepts/agent-dev-playbook-new-project": [
     "concepts/agent-dev-key-lessons",
@@ -45,10 +53,16 @@
     "concepts/agent-dev-key-lessons",
     "concepts/agent-dev-playbook-existing-project",
     "concepts/agent-dev-playbook-new-project",
+    "concepts/pi-sdd-existing-project-playbook",
     "sources/agent-dev-top-10-lessons",
     "sources/agent-driven-development-paradigms-and-playbooks",
+    "sources/pi-sdd-existing-project-complete-playbook",
     "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide"
+    "syntheses/agent-driven-development-complete-guide",
+    "syntheses/pi-sdd-existing-project-playbook"
+  ],
+  "concepts/pi-sdd-existing-project-playbook": [
+    "syntheses/pi-sdd-existing-project-playbook"
   ],
   "entities/agent-dev-project-catalog": [
     "concepts/agent-dev-key-lessons",
@@ -82,8 +96,18 @@
     "syntheses/agent-dev-key-lessons",
     "syntheses/agent-driven-development-complete-guide"
   ],
+  "sources/pi-sdd-existing-project-complete-playbook": [
+    "concepts/pi-sdd-existing-project-playbook",
+    "sources/pi-sdd-existing-project-playbook-summary",
+    "syntheses/pi-sdd-existing-project-playbook"
+  ],
+  "sources/pi-sdd-existing-project-playbook-summary": [
+    "concepts/pi-sdd-existing-project-playbook",
+    "syntheses/pi-sdd-existing-project-playbook"
+  ],
   "syntheses/agent-dev-key-lessons": [],
   "syntheses/agent-driven-development-complete-guide": [
     "concepts/agent-driven-development-paradigms"
-  ]
+  ],
+  "syntheses/pi-sdd-existing-project-playbook": []
 }

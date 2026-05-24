@@ -3,7 +3,7 @@ title: "50+ Agent驱动开发项目速查索引"
 type: source
 slug: agent-dev-project-catalog-50-plus
 status: insight
-tags: [agent-dev, catalog, projects]
+tags: [agent-dev, 项目目录, 索引]
 created: 2026-05-24
 updated: 2026-05-24
 ---
@@ -12,43 +12,43 @@ updated: 2026-05-24
 
 ## 50+ 热门项目分类索引
 
-### 全自主平台（10个项目）
+### 全自主平台（10 个项目）
 
 OpenHands(71K), Codex(84K), SWE-agent(14K+), Devin, Factory, PyAgent, Agent-OS, SWE-AF, Autopilot, Coding Engine
 
-### IDE集成（7个）
+### IDE 集成（7 个）
 
 Cursor, Windsurf, Kiro, Roo Code(25K+), Cline(8M+用户), Continue(20K+), Aider(30K+)
 
-### 多Agent框架（5个）
+### 多 Agent 框架（5 个）
 
 MetaGPT(52K+), ChatDev(27K+), AutoGen(43K+), CrewAI(30K+), LangGraph(15K+)
 
-### 代码生成（5个）
+### 代码生成（5 个）
 
 GPT-Engineer(55K+), Bolt.new, bolt.diy, Smol Developer(12K+), Lovable
 
-### SDD/TDD工具（7个）
+### SDD/TDD 工具（7 个）
 
 SAM, TDD-Skills, Spec-Dev-Ralph, Agentic Dev Workflow, Spec-First, Agent Skills, myVibe
 
-### 自主循环（6个）
+### 自主循环（6 个）
 
 karl, KitchenLoop, VC, Vibe Crafting, claude-autonomous, Copilot Autonomous
 
-### 遗留项目（3个）
+### 遗留项目（3 个）
 
 Reversa, ABC, Doc-Guided Migration
 
-### 基础设施（4个）
+### 基础设施（4 个）
 
 Goose(12K+), Attractor, mini-swe-agent, OpenHands SDK
 
-### PR审查（2个）
+### PR 审查（2 个）
 
 PR-Agent(11K+), Factory Droid
 
-### 研究论文（7个）
+### 研究论文（7 个）
 
 Vibe vs Agentic, SICA, Darwin Gödel, Huxley-Gödel, TDD Governance, Reversa, SWE-bench Dissection
 

@@ -38,3 +38,19 @@
 ## [2026-05-24T01:12:32.507Z] ingest
 - pages: 8, projects_indexed: 64, sources: "50+ GitHub projects, 7 research papers, 5 curated awesome-lists, 6 web guides"
 
+## [2026-05-24T01:45:33.489Z] rebuild_meta
+
+## [2026-05-24T01:56:30.157Z] ensure_page
+- page_type: "synthesis", title: "Pi SDD Existing Project Playbook", path: "syntheses/pi-sdd-existing-project-playbook"
+
+## [2026-05-24T01:56:52.624Z] retro
+- slug: "pi-sdd-existing-project-complete-playbook", title: "Pi SDD接手现有项目完整操作方案", category: "uncategorized"
+
+## [2026-05-24T01:57:17.593Z] lint
+- orphans: 3, missing_pages: 2, contradictions: 0, auto_fix: true
+
+## [2026-05-24T01:57:39.336Z] retro
+- slug: "pi-sdd-existing-project-playbook-summary", title: "Pi SDD接手现有项目操作方案", category: "uncategorized"
+
+## [2026-05-24T02:02:27.575Z] rebuild_meta
+

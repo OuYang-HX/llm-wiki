@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T01:45:33.488Z",
+  "last_updated": "2026-05-24T02:03:10.942Z",
   "pages": {
     "concepts/agent-dev-key-lessons": {
       "type": "concept",
       "title": "Agent驱动开发核心经验",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, lessons, best-practices]",
+      "tags": "[agent-dev, 经验总结, 最佳实践]",
       "sources": ""
     },
     "concepts/agent-dev-playbook-existing-project": {
@@ -15,7 +15,7 @@
       "title": "已有项目操作手册",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, playbook, existing-project, migration]",
+      "tags": "[agent-dev, 操作手册, 已有项目, 迁移]",
       "sources": ""
     },
     "concepts/agent-dev-playbook-new-project": {
@@ -23,7 +23,7 @@
       "title": "新项目操作手册",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, playbook, new-project, sdd]",
+      "tags": "[agent-dev, 操作手册, 新项目, SDD]",
       "sources": ""
     },
     "concepts/agent-dev-project-catalog": {
@@ -31,7 +31,7 @@
       "title": "Agent驱动开发项目目录",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, catalog, projects]",
+      "tags": "[agent-dev, 项目目录, 参考]",
       "sources": ""
     },
     "concepts/agent-dev-tool-landscape": {
@@ -39,7 +39,7 @@
       "title": "Agent编码工具全景",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, tools, landscape]",
+      "tags": "[agent-dev, 工具, 生态]",
       "sources": ""
     },
     "concepts/agent-driven-development-paradigms": {
@@ -47,7 +47,15 @@
       "title": "Agent自主驱动开发三大范式",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, paradigms, sdd, vibe-coding]",
+      "tags": "[agent-dev, 范式, SDD, Vibe Coding]",
+      "sources": ""
+    },
+    "concepts/pi-sdd-existing-project-playbook": {
+      "type": "concept",
+      "title": "Pi SDD 接手现有项目（综合）",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, SDD, Pi, 操作指南]",
       "sources": ""
     },
     "entities/agent-dev-project-catalog": {
@@ -55,7 +63,7 @@
       "title": "Agent驱动开发项目完整目录",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, catalog, projects, reference]",
+      "tags": "[agent-dev, 项目目录, 参考]",
       "sources": ""
     },
     "entities/agent-dev-tool-landscape": {
@@ -63,7 +71,7 @@
       "title": "Agent编码工具完整目录",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, tools, reference]",
+      "tags": "[agent-dev, 工具, 参考]",
       "sources": ""
     },
     "sources/agent-dev-project-catalog-50-plus": {
@@ -73,7 +81,7 @@
       "updated": "2026-05-24",
       "slug": "agent-dev-project-catalog-50-plus",
       "status": "insight",
-      "tags": "[agent-dev, catalog, projects]"
+      "tags": "[agent-dev, 项目目录, 索引]"
     },
     "sources/agent-dev-top-10-lessons": {
       "type": "source",
@@ -82,7 +90,7 @@
       "updated": "2026-05-24",
       "slug": "agent-dev-top-10-lessons",
       "status": "insight",
-      "tags": "[agent-dev, lessons, best-practices]"
+      "tags": "[agent-dev, 经验总结, 最佳实践]"
     },
     "sources/agent-driven-development-paradigms-and-playbooks": {
       "type": "source",
@@ -91,14 +99,32 @@
       "updated": "2026-05-24",
       "slug": "agent-driven-development-paradigms-and-playbooks",
       "status": "insight",
-      "tags": "[agent-dev, paradigms, playbook, sdd]"
+      "tags": "[agent-dev, 范式, 操作手册, SDD]"
+    },
+    "sources/pi-sdd-existing-project-complete-playbook": {
+      "type": "source",
+      "title": "Pi SDD 接手现有项目操作方案",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "slug": "pi-sdd-existing-project-complete-playbook",
+      "status": "insight",
+      "tags": "[agent-dev, SDD, Pi, 操作指南]"
+    },
+    "sources/pi-sdd-existing-project-playbook-summary": {
+      "type": "source",
+      "title": "\"Pi SDD接手现有项目操作方案（摘要）\"",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "slug": "pi-sdd-existing-project-playbook-summary",
+      "status": "insight",
+      "tags": "[agent-dev, SDD, Pi, 操作指南]"
     },
     "syntheses/agent-dev-key-lessons": {
       "type": "synthesis",
       "title": "Agent驱动开发核心经验（综合）",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, synthesis, lessons]",
+      "tags": "[agent-dev, 综合, 经验总结]",
       "sources": ""
     },
     "syntheses/agent-driven-development-complete-guide": {
@@ -106,7 +132,15 @@
       "title": "Agent自主驱动开发：完整指南",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "tags": "[agent-dev, synthesis, guide]",
+      "tags": "[agent-dev, 综合, 指南]",
+      "sources": ""
+    },
+    "syntheses/pi-sdd-existing-project-playbook": {
+      "type": "synthesis",
+      "title": "Pi SDD 接手现有项目（综合）",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, SDD, Pi, 综合]",
       "sources": ""
     }
   }

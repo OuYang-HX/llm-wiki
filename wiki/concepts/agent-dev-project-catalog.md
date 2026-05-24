@@ -1,7 +1,7 @@
 ---
 title: Agent驱动开发项目目录
 type: concept
-tags: [agent-dev, catalog, projects]
+tags: [agent-dev, 项目目录, 参考]
 created: 2026-05-24
 updated: 2026-05-24
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Agent自主驱动开发：完整指南
 type: synthesis
-tags: [agent-dev, synthesis, guide]
+tags: [agent-dev, 综合, 指南]
 created: 2026-05-24
 updated: 2026-05-24
 sources:
@@ -19,9 +19,9 @@ sources:
 
 ## 快速导航
 
-- [[concepts/agent-driven-development-paradigms|三大范式详解]] — Vibe Coding / SDD / Autonomous 深度对比
-- [[concepts/agent-dev-playbook-new-project|新项目操作手册]] — 从零开始让 agent 自动开发
-- [[concepts/agent-dev-playbook-existing-project|已有项目操作手册]] — 让 agent 接手已有代码库
+- [[concepts/agent-driven-development-paradigms|三大范式详解]] — Vibe Coding / SDD / 自主 Agent 深度对比
+- [[concepts/agent-dev-playbook-new-project|新项目操作手册]] — 从零开始让 Agent 自动开发
+- [[concepts/agent-dev-playbook-existing-project|已有项目操作手册]] — 让 Agent 接手已有代码库
 - [[concepts/agent-dev-project-catalog|50+ 项目目录]] — GitHub 热门项目索引
 - [[concepts/agent-dev-tool-landscape|工具全景]] — Agent 编码工具生态系统
 - [[concepts/agent-dev-key-lessons|核心经验总结]] — 十大经验 + 失败模式 + 决策树
