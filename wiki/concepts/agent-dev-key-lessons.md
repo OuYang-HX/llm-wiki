@@ -1,14 +1,15 @@
 ---
-title: "Agent驱动开发十大核心经验"
-type: source
-slug: agent-dev-top-10-lessons
-status: insight
+title: Agent驱动开发核心经验
+type: concept
 tags: [agent-dev, lessons, best-practices]
 created: 2026-05-24
 updated: 2026-05-24
+sources:
+  - "[[sources/agent-dev-top-10-lessons]]"
+  - "[[sources/agent-driven-development-paradigms-and-playbooks]]"
 ---
 
-# Agent驱动开发十大核心经验
+# Agent驱动开发核心经验
 
 ## 十大核心经验
 
@@ -44,11 +45,13 @@ updated: 2026-05-24
 6. 隐性知识没传达
 7. 一次全交
 
-> [!info] 详细内容
-> 详见 [[concepts/agent-dev-key-lessons|核心经验详解]]。
+> [!tip] 核心公式
+> 好规格 + 好指令文件 + 好测试 + 好CI = Agent 自动驾驶
 
 ## 相关页面
 
-- [[concepts/agent-dev-key-lessons|核心经验详解]]
-- [[concepts/agent-driven-development-paradigms|三大范式]]
-- [[sources/agent-driven-development-paradigms-and-playbooks|范式与操作手册]]
+- [[concepts/agent-driven-development-paradigms|三大范式详解]]
+- [[concepts/agent-dev-playbook-new-project|新项目操作手册]]
+- [[concepts/agent-dev-playbook-existing-project|已有项目操作手册]]
+- [[entities/agent-dev-tool-landscape|工具全景]]
+- [[entities/agent-dev-project-catalog|项目目录]]

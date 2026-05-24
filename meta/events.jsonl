@@ -10,3 +10,4 @@
 {"timestamp":"2026-05-24T01:12:16.556Z","kind":"retro","slug":"agent-dev-project-catalog-50-plus","title":"50+ Agent驱动开发项目速查索引","category":"uncategorized"}
 {"timestamp":"2026-05-24T01:12:28.639Z","kind":"retro","slug":"agent-dev-top-10-lessons","title":"Agent驱动开发十大核心经验","category":"uncategorized"}
 {"timestamp":"2026-05-24T01:12:32.507Z","kind":"ingest","pages":8,"projects_indexed":64,"sources":"50+ GitHub projects, 7 research papers, 5 curated awesome-lists, 6 web guides"}
+{"timestamp":"2026-05-24T01:45:33.489Z","kind":"rebuild_meta"}

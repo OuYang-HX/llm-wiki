@@ -1,37 +1,89 @@
 {
-  "concepts/Agent-Dev-Key-Lessons": [],
-  "concepts/Agent-Dev-Playbook-Existing-Project": [],
-  "concepts/Agent-Dev-Playbook-New-Project": [],
-  "concepts/Agent-Dev-Project-Catalog": [],
-  "concepts/Agent-Dev-Tool-Landscape": [],
-  "concepts/Agent-Driven-Development-Paradigms": [],
+  "concepts/agent-dev-key-lessons": [
+    "concepts/agent-dev-playbook-existing-project",
+    "concepts/agent-dev-playbook-new-project",
+    "concepts/agent-dev-project-catalog",
+    "concepts/agent-dev-tool-landscape",
+    "concepts/agent-driven-development-paradigms",
+    "entities/agent-dev-project-catalog",
+    "entities/agent-dev-tool-landscape",
+    "sources/agent-dev-project-catalog-50-plus",
+    "sources/agent-dev-top-10-lessons",
+    "sources/agent-driven-development-paradigms-and-playbooks",
+    "syntheses/agent-dev-key-lessons",
+    "syntheses/agent-driven-development-complete-guide"
+  ],
   "concepts/agent-dev-playbook-existing-project": [
-    "concepts/Agent-Dev-Playbook-Existing-Project"
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-playbook-new-project",
+    "concepts/agent-driven-development-paradigms",
+    "sources/agent-driven-development-paradigms-and-playbooks",
+    "syntheses/agent-driven-development-complete-guide"
   ],
   "concepts/agent-dev-playbook-new-project": [
-    "concepts/Agent-Dev-Playbook-New-Project"
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-playbook-existing-project",
+    "concepts/agent-driven-development-paradigms",
+    "sources/agent-driven-development-paradigms-and-playbooks",
+    "syntheses/agent-driven-development-complete-guide"
+  ],
+  "concepts/agent-dev-project-catalog": [
+    "concepts/agent-dev-tool-landscape",
+    "entities/agent-dev-project-catalog",
+    "entities/agent-dev-tool-landscape",
+    "sources/agent-dev-project-catalog-50-plus",
+    "syntheses/agent-driven-development-complete-guide"
+  ],
+  "concepts/agent-dev-tool-landscape": [
+    "concepts/agent-dev-project-catalog",
+    "entities/agent-dev-project-catalog",
+    "entities/agent-dev-tool-landscape",
+    "sources/agent-dev-project-catalog-50-plus",
+    "syntheses/agent-driven-development-complete-guide"
   ],
   "concepts/agent-driven-development-paradigms": [
-    "concepts/Agent-Driven-Development-Paradigms"
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-playbook-existing-project",
+    "concepts/agent-dev-playbook-new-project",
+    "sources/agent-dev-top-10-lessons",
+    "sources/agent-driven-development-paradigms-and-playbooks",
+    "syntheses/agent-dev-key-lessons",
+    "syntheses/agent-driven-development-complete-guide"
   ],
   "entities/agent-dev-project-catalog": [
-    "concepts/Agent-Dev-Project-Catalog"
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-project-catalog",
+    "sources/agent-dev-project-catalog-50-plus"
   ],
   "entities/agent-dev-tool-landscape": [
-    "concepts/Agent-Dev-Tool-Landscape"
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-playbook-existing-project",
+    "concepts/agent-dev-playbook-new-project",
+    "concepts/agent-dev-tool-landscape"
   ],
-  "sources/agent-dev-project-catalog-50-plus": [],
-  "sources/agent-dev-top-10-lessons": [],
-  "sources/agent-driven-development-paradigms-and-playbooks": [],
-  "syntheses/agent-dev-key-lessons": [
-    "concepts/Agent-Dev-Key-Lessons"
+  "sources/agent-dev-project-catalog-50-plus": [
+    "concepts/agent-dev-project-catalog",
+    "concepts/agent-dev-tool-landscape",
+    "entities/agent-dev-project-catalog",
+    "entities/agent-dev-tool-landscape",
+    "syntheses/agent-driven-development-complete-guide"
   ],
+  "sources/agent-dev-top-10-lessons": [
+    "concepts/agent-dev-key-lessons",
+    "syntheses/agent-dev-key-lessons",
+    "syntheses/agent-driven-development-complete-guide"
+  ],
+  "sources/agent-driven-development-paradigms-and-playbooks": [
+    "concepts/agent-dev-key-lessons",
+    "concepts/agent-dev-playbook-existing-project",
+    "concepts/agent-dev-playbook-new-project",
+    "concepts/agent-driven-development-paradigms",
+    "sources/agent-dev-top-10-lessons",
+    "syntheses/agent-dev-key-lessons",
+    "syntheses/agent-driven-development-complete-guide"
+  ],
+  "syntheses/agent-dev-key-lessons": [],
   "syntheses/agent-driven-development-complete-guide": [
-    "concepts/Agent-Dev-Key-Lessons",
-    "concepts/Agent-Dev-Playbook-Existing-Project",
-    "concepts/Agent-Dev-Playbook-New-Project",
-    "concepts/Agent-Dev-Project-Catalog",
-    "concepts/Agent-Dev-Tool-Landscape",
-    "concepts/Agent-Driven-Development-Paradigms"
+    "concepts/agent-driven-development-paradigms"
   ]
 }

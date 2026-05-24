@@ -1,84 +1,70 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T01:12:28.640Z",
+  "last_updated": "2026-05-24T01:45:33.488Z",
   "pages": {
-    "concepts/Agent-Dev-Key-Lessons": {
+    "concepts/agent-dev-key-lessons": {
       "type": "concept",
-      "title": "Agent-Dev-Key-Lessons",
+      "title": "Agent驱动开发核心经验",
       "created": "2026-05-24",
       "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
-    },
-    "concepts/Agent-Dev-Playbook-Existing-Project": {
-      "type": "concept",
-      "title": "Agent-Dev-Playbook-Existing-Project",
-      "created": "2026-05-24",
-      "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
-    },
-    "concepts/Agent-Dev-Playbook-New-Project": {
-      "type": "concept",
-      "title": "Agent-Dev-Playbook-New-Project",
-      "created": "2026-05-24",
-      "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
-    },
-    "concepts/Agent-Dev-Project-Catalog": {
-      "type": "concept",
-      "title": "Agent-Dev-Project-Catalog",
-      "created": "2026-05-24",
-      "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
-    },
-    "concepts/Agent-Dev-Tool-Landscape": {
-      "type": "concept",
-      "title": "Agent-Dev-Tool-Landscape",
-      "created": "2026-05-24",
-      "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
-    },
-    "concepts/Agent-Driven-Development-Paradigms": {
-      "type": "concept",
-      "title": "Agent-Driven-Development-Paradigms",
-      "created": "2026-05-24",
-      "updated": "2026-05-24",
-      "sources": "[]",
-      "status": "stub"
+      "tags": "[agent-dev, lessons, best-practices]",
+      "sources": ""
     },
     "concepts/agent-dev-playbook-existing-project": {
-      "type": "page",
-      "title": "agent-dev-playbook-existing-project",
+      "type": "concept",
+      "title": "已有项目操作手册",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, playbook, existing-project, migration]",
+      "sources": ""
     },
     "concepts/agent-dev-playbook-new-project": {
-      "type": "page",
-      "title": "agent-dev-playbook-new-project",
+      "type": "concept",
+      "title": "新项目操作手册",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, playbook, new-project, sdd]",
+      "sources": ""
+    },
+    "concepts/agent-dev-project-catalog": {
+      "type": "concept",
+      "title": "Agent驱动开发项目目录",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, catalog, projects]",
+      "sources": ""
+    },
+    "concepts/agent-dev-tool-landscape": {
+      "type": "concept",
+      "title": "Agent编码工具全景",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, tools, landscape]",
+      "sources": ""
     },
     "concepts/agent-driven-development-paradigms": {
-      "type": "page",
-      "title": "agent-driven-development-paradigms",
+      "type": "concept",
+      "title": "Agent自主驱动开发三大范式",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, paradigms, sdd, vibe-coding]",
+      "sources": ""
     },
     "entities/agent-dev-project-catalog": {
-      "type": "page",
-      "title": "agent-dev-project-catalog",
+      "type": "entity",
+      "title": "Agent驱动开发项目完整目录",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, catalog, projects, reference]",
+      "sources": ""
     },
     "entities/agent-dev-tool-landscape": {
-      "type": "page",
-      "title": "agent-dev-tool-landscape",
+      "type": "entity",
+      "title": "Agent编码工具完整目录",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, tools, reference]",
+      "sources": ""
     },
     "sources/agent-dev-project-catalog-50-plus": {
       "type": "source",
@@ -86,7 +72,8 @@
       "created": "2026-05-24",
       "updated": "2026-05-24",
       "slug": "agent-dev-project-catalog-50-plus",
-      "status": "insight"
+      "status": "insight",
+      "tags": "[agent-dev, catalog, projects]"
     },
     "sources/agent-dev-top-10-lessons": {
       "type": "source",
@@ -94,7 +81,8 @@
       "created": "2026-05-24",
       "updated": "2026-05-24",
       "slug": "agent-dev-top-10-lessons",
-      "status": "insight"
+      "status": "insight",
+      "tags": "[agent-dev, lessons, best-practices]"
     },
     "sources/agent-driven-development-paradigms-and-playbooks": {
       "type": "source",
@@ -102,19 +90,24 @@
       "created": "2026-05-24",
       "updated": "2026-05-24",
       "slug": "agent-driven-development-paradigms-and-playbooks",
-      "status": "insight"
+      "status": "insight",
+      "tags": "[agent-dev, paradigms, playbook, sdd]"
     },
     "syntheses/agent-dev-key-lessons": {
-      "type": "page",
-      "title": "agent-dev-key-lessons",
+      "type": "synthesis",
+      "title": "Agent驱动开发核心经验（综合）",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, synthesis, lessons]",
+      "sources": ""
     },
     "syntheses/agent-driven-development-complete-guide": {
-      "type": "page",
-      "title": "agent-driven-development-complete-guide",
+      "type": "synthesis",
+      "title": "Agent自主驱动开发：完整指南",
       "created": "2026-05-24",
-      "updated": "2026-05-24"
+      "updated": "2026-05-24",
+      "tags": "[agent-dev, synthesis, guide]",
+      "sources": ""
     }
   }
 }

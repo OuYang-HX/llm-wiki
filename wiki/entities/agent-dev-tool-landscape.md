@@ -1,5 +1,61 @@
-Agent编码工具全景
+---
+title: Agent编码工具完整目录
+type: entity
+tags: [agent-dev, tools, reference]
+created: 2026-05-24
+updated: 2026-05-24
+sources:
+  - "[[sources/agent-dev-project-catalog-50-plus]]"
+---
 
-四大类别：终端原生、IDE原生、自主/后台、辅助/加速
+# Agent编码工具完整目录
 
-详见 [[Agent-Dev-Tool-Landscape]]
+Agent 编码工具生态系统，按使用模式分四大类别。
+
+## 终端原生
+
+在终端运行，灵活组合，适合高级用户。
+
+| 工具 | Stars | 说明 |
+|------|-------|------|
+| Aider | 30K+ | 终端+IDE 双模式 AI pair programmer |
+| Claude Code | — | Anthropic 终端 agent |
+| OpenHands | 71K+ | 全自主终端 agent |
+
+## IDE 原生
+
+编辑器内集成，低切换成本，适合日常开发。
+
+| 工具 | 规模 | 说明 |
+|------|------|------|
+| Cursor | — | AI 原生编辑器 |
+| Windsurf | — | AI IDE (Codeium) |
+| Kiro | — | SDD 集成 IDE |
+| Roo Code | 25K+ | VS Code agent 扩展 |
+| Cline | 8M+用户 | VS Code 自主 agent |
+| Continue | 20K+ | 开源 IDE 扩展 |
+
+## 自主/后台
+
+最少人工干预，独立循环运行。
+
+| 工具 | 说明 |
+|------|------|
+| Agent-OS | Agent 操作系统 |
+| Factory | 代码工厂 |
+| karl | 自主循环 agent |
+
+## 辅助/加速
+
+增强人类效率，不替代人类决策。
+
+| 工具 | 说明 |
+|------|------|
+| GitHub Copilot | 代码补全 |
+| Tabnine | AI 补全 |
+
+## 相关页面
+
+- [[concepts/agent-dev-tool-landscape|工具全景概览]]
+- [[concepts/agent-dev-project-catalog|项目目录]]
+- [[concepts/agent-dev-key-lessons|核心经验总结]]

@@ -1,5 +1,29 @@
-Agent驱动开发核心经验
+---
+title: Agent驱动开发核心经验（综合）
+type: synthesis
+tags: [agent-dev, synthesis, lessons]
+created: 2026-05-24
+updated: 2026-05-24
+sources:
+  - "[[sources/agent-dev-top-10-lessons]]"
+  - "[[sources/agent-driven-development-paradigms-and-playbooks]]"
+---
 
-十大经验 + 七个成功模式 + 七个失败模式 + 工具决策树
+# Agent驱动开发核心经验（综合）
 
-详见 [[Agent-Dev-Key-Lessons]]
+综合提炼自多个知识源的核心洞察。
+
+> [!abstract] 摘要
+> 十大经验 + 七个失败模式 + 工具决策树。详见 [[concepts/agent-dev-key-lessons|核心经验详解]]。
+
+## 核心要点
+
+1. **指令文件是最值得投入的**（CLAUDE.md/AGENTS.md）— 减少 50-70% 错误
+2. **Spec 优先于 Prompt** — SDD 吞吐量高 5-7x
+3. **测试是 Agent 的工作语言** — 有测试成功率翻倍
+4. **渐进式接手** — 一次全交失败率 > 60%
+
+## 详细页面
+
+- [[concepts/agent-dev-key-lessons|核心经验详解]] — 十大经验 + 失败模式 + 决策树
+- [[concepts/agent-driven-development-paradigms|三大范式]] — Vibe Coding / SDD / Autonomous
