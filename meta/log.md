@@ -69,3 +69,14 @@
 ## [2026-05-24T03:11:09.703Z] lint
 - orphans: 4, missing_pages: 10, contradictions: 0, auto_fix: false
 
+## [2026-05-24T03:31:37.102Z] rebuild_meta
+
+## [2026-05-24T03:32:30.846Z] retro
+- slug: "wiki-env-scoping", title: "Wiki 环境标注规范：多平台同步的知识拆分", category: "architecture"
+
+## [2026-05-24T12:18:46.592Z] capture
+- source_id: "SRC-2026-05-24-001", file_path: "/storage/emulated/0/Download/termux-backup/RESTORE_GUIDE.md", format: "markdown"
+
+## [2026-05-24T12:20:07.535Z] lint
+- orphans: 5, missing_pages: 14, contradictions: 0, auto_fix: true
+

@@ -24,6 +24,8 @@
 - [[sources/50+项目速查索引]] — "50+ Agent驱动开发项目速查索引" *(created: 2026-05-24)*
 - [[sources/Pi-SDD完整操作方案]] — Pi SDD 接手现有项目操作方案 *(created: 2026-05-24)*
 - [[sources/Pi-SDD操作方案摘要]] — "Pi SDD接手现有项目操作方案（摘要）" *(created: 2026-05-24)*
+- [[sources/SRC-2026-05-24-001]] — Termux 环境迁移指南 *(created: 2026-05-24)*
+- [[sources/wiki-env-scoping]] — "Wiki 环境标注规范：多平台同步的知识拆分" *(created: 2026-05-24)*
 - [[sources/十大核心经验]] — "Agent驱动开发十大核心经验" *(created: 2026-05-24)*
 - [[sources/范式与操作手册]] — "Agent自主驱动开发范式与操作手册" *(created: 2026-05-24)*
 
@@ -34,4 +36,4 @@
 - [[syntheses/核心经验综合]] — Agent驱动开发核心经验（综合） *(created: 2026-05-24)*
 
 ---
-*Last updated: 2026-05-24T03:31:37.100Z* | *Total pages: 19*
+*Last updated: 2026-05-24T12:20:07.536Z* | *Total pages: 21*

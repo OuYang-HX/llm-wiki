@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T03:31:37.100Z",
+  "last_updated": "2026-05-24T12:20:07.536Z",
   "pages": {
     "concepts/Pi-Agent使用习惯": {
       "type": "concept",
@@ -116,6 +116,25 @@
       "slug": "Pi-SDD操作方案摘要",
       "status": "insight",
       "tags": "[agent-dev, SDD, Pi, 操作指南]"
+    },
+    "sources/SRC-2026-05-24-001": {
+      "type": "source",
+      "title": "Termux 环境迁移指南",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "source_id": "SRC-2026-05-24-001",
+      "captured": "2026-05-24",
+      "tags": "[termux, backup, migration, android, 环境迁移]",
+      "relates": "\"[[Pi-Agent安装配置（Termux）]]\""
+    },
+    "sources/wiki-env-scoping": {
+      "type": "source",
+      "title": "\"Wiki 环境标注规范：多平台同步的知识拆分\"",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "slug": "wiki-env-scoping",
+      "status": "insight",
+      "category": "architecture"
     },
     "sources/十大核心经验": {
       "type": "source",
