@@ -2,9 +2,18 @@
   "concepts/Pi-Agent使用习惯": [
     "concepts/工具全景"
   ],
-  "concepts/Pi-Agent安装配置（Termux）": [],
+  "concepts/Pi-Agent安装配置（Termux）": [
+    "concepts/SRC-2026-05-24-001",
+    "concepts/Termux 配置备份"
+  ],
   "concepts/Pi-SDD接手现有项目": [
     "syntheses/Pi-SDD接手现有项目综合"
+  ],
+  "concepts/SRC-2026-05-24-001": [],
+  "concepts/Termux 配置备份": [],
+  "concepts/Termux 额外键盘配置": [],
+  "concepts/termux": [
+    "concepts/SRC-2026-05-24-001"
   ],
   "concepts/三大范式": [
     "concepts/Pi-SDD接手现有项目",
@@ -95,7 +104,10 @@
     "concepts/Pi-SDD接手现有项目",
     "syntheses/Pi-SDD接手现有项目综合"
   ],
-  "sources/SRC-2026-05-24-001": [],
+  "sources/SRC-2026-05-24-001": [
+    "concepts/Termux 配置备份"
+  ],
+  "sources/termux-config-backup-github": [],
   "sources/wiki-env-scoping": [],
   "sources/十大核心经验": [
     "concepts/核心经验总结",

@@ -80,3 +80,14 @@
 ## [2026-05-24T12:20:07.535Z] lint
 - orphans: 5, missing_pages: 14, contradictions: 0, auto_fix: true
 
+## [2026-05-24T13:42:03.522Z] ensure_page
+- page_type: "concept", title: "Termux 配置备份", path: "concepts/termux"
+
+## [2026-05-24T13:43:38.682Z] rebuild_meta
+
+## [2026-05-24T13:43:45.006Z] lint
+- orphans: 6, missing_pages: 19, contradictions: 0, auto_fix: true
+
+## [2026-05-24T13:43:54.507Z] retro
+- slug: "termux-config-backup-github", title: "Termux 配置备份同步到 GitHub", category: "termux"
+

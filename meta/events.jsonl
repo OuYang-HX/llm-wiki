@@ -26,3 +26,8 @@
 {"timestamp":"2026-05-24T03:32:30.846Z","kind":"retro","slug":"wiki-env-scoping","title":"Wiki 环境标注规范：多平台同步的知识拆分","category":"architecture"}
 {"timestamp":"2026-05-24T12:18:46.592Z","kind":"capture","source_id":"SRC-2026-05-24-001","file_path":"/storage/emulated/0/Download/termux-backup/RESTORE_GUIDE.md","format":"markdown"}
 {"timestamp":"2026-05-24T12:20:07.535Z","kind":"lint","orphans":5,"missing_pages":14,"contradictions":0,"auto_fix":true}
+{"timestamp":"2026-05-24T13:42:03.522Z","kind":"ensure_page","page_type":"concept","title":"Termux 配置备份","path":"concepts/termux"}
+{"timestamp":"2026-05-24T13:43:38.682Z","kind":"rebuild_meta"}
+{"timestamp":"2026-05-24T13:43:45.006Z","kind":"lint","orphans":6,"missing_pages":19,"contradictions":0,"auto_fix":true}
+{"timestamp":"2026-05-24T13:43:54.507Z","kind":"retro","slug":"termux-config-backup-github","title":"Termux 配置备份同步到 GitHub","category":"termux"}
+{"timestamp":"2026-05-24T13:52:47.619Z","kind":"rebuild_meta"}

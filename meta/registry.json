@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T12:20:07.536Z",
+  "last_updated": "2026-05-24T13:52:47.615Z",
   "pages": {
     "concepts/Pi-Agent使用习惯": {
       "type": "concept",
@@ -25,6 +25,40 @@
       "updated": "2026-05-24",
       "tags": "[agent-dev, SDD, Pi, 操作指南]",
       "sources": ""
+    },
+    "concepts/SRC-2026-05-24-001": {
+      "type": "concept",
+      "title": "SRC-2026-05-24-001",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "sources": "[]",
+      "status": "stub"
+    },
+    "concepts/Termux 配置备份": {
+      "type": "concept",
+      "title": "Termux 配置备份",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "sources": "[]",
+      "status": "stub"
+    },
+    "concepts/Termux 额外键盘配置": {
+      "type": "concept",
+      "title": "Termux 额外键盘配置",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "env": "termux",
+      "tags": "[termux, keyboard, 配置]",
+      "relates": "\"[[Pi-Agent安装配置（Termux）]]\""
+    },
+    "concepts/termux": {
+      "type": "concept",
+      "title": "Termux 配置备份",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "env": "termux",
+      "tags": "[termux, backup, config, github]",
+      "relates": "\"[[Pi-Agent安装配置（Termux）]]\""
     },
     "concepts/三大范式": {
       "type": "concept",
@@ -125,7 +159,16 @@
       "source_id": "SRC-2026-05-24-001",
       "captured": "2026-05-24",
       "tags": "[termux, backup, migration, android, 环境迁移]",
-      "relates": "\"[[Pi-Agent安装配置（Termux）]]\""
+      "relates": "\"[[Pi-Agent安装配置（Termux）]], [[Termux 配置备份]]\""
+    },
+    "sources/termux-config-backup-github": {
+      "type": "source",
+      "title": "\"Termux 配置备份同步到 GitHub\"",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "slug": "termux-config-backup-github",
+      "status": "insight",
+      "category": "termux"
     },
     "sources/wiki-env-scoping": {
       "type": "source",
