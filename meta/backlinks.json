@@ -1,0 +1,37 @@
+{
+  "concepts/Agent-Dev-Key-Lessons": [],
+  "concepts/Agent-Dev-Playbook-Existing-Project": [],
+  "concepts/Agent-Dev-Playbook-New-Project": [],
+  "concepts/Agent-Dev-Project-Catalog": [],
+  "concepts/Agent-Dev-Tool-Landscape": [],
+  "concepts/Agent-Driven-Development-Paradigms": [],
+  "concepts/agent-dev-playbook-existing-project": [
+    "concepts/Agent-Dev-Playbook-Existing-Project"
+  ],
+  "concepts/agent-dev-playbook-new-project": [
+    "concepts/Agent-Dev-Playbook-New-Project"
+  ],
+  "concepts/agent-driven-development-paradigms": [
+    "concepts/Agent-Driven-Development-Paradigms"
+  ],
+  "entities/agent-dev-project-catalog": [
+    "concepts/Agent-Dev-Project-Catalog"
+  ],
+  "entities/agent-dev-tool-landscape": [
+    "concepts/Agent-Dev-Tool-Landscape"
+  ],
+  "sources/agent-dev-project-catalog-50-plus": [],
+  "sources/agent-dev-top-10-lessons": [],
+  "sources/agent-driven-development-paradigms-and-playbooks": [],
+  "syntheses/agent-dev-key-lessons": [
+    "concepts/Agent-Dev-Key-Lessons"
+  ],
+  "syntheses/agent-driven-development-complete-guide": [
+    "concepts/Agent-Dev-Key-Lessons",
+    "concepts/Agent-Dev-Playbook-Existing-Project",
+    "concepts/Agent-Dev-Playbook-New-Project",
+    "concepts/Agent-Dev-Project-Catalog",
+    "concepts/Agent-Dev-Tool-Landscape",
+    "concepts/Agent-Driven-Development-Paradigms"
+  ]
+}

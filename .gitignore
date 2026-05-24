@@ -1,0 +1,13 @@
+# LLM Wiki .gitignore
+
+# Runtime/cache
+.discoveries/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
