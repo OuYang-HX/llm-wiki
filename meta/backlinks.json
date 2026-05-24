@@ -1,113 +1,113 @@
 {
-  "concepts/agent-dev-key-lessons": [
-    "concepts/agent-dev-playbook-existing-project",
-    "concepts/agent-dev-playbook-new-project",
-    "concepts/agent-dev-project-catalog",
-    "concepts/agent-dev-tool-landscape",
-    "concepts/agent-driven-development-paradigms",
-    "concepts/pi-sdd-existing-project-playbook",
-    "entities/agent-dev-project-catalog",
-    "entities/agent-dev-tool-landscape",
-    "sources/agent-dev-project-catalog-50-plus",
-    "sources/agent-dev-top-10-lessons",
-    "sources/agent-driven-development-paradigms-and-playbooks",
-    "sources/pi-sdd-existing-project-complete-playbook",
-    "sources/pi-sdd-existing-project-playbook-summary",
-    "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide",
-    "syntheses/pi-sdd-existing-project-playbook"
+  "concepts/Pi-SDD接手现有项目": [
+    "syntheses/Pi-SDD接手现有项目综合"
   ],
-  "concepts/agent-dev-playbook-existing-project": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-playbook-new-project",
-    "concepts/agent-driven-development-paradigms",
-    "concepts/pi-sdd-existing-project-playbook",
-    "sources/agent-driven-development-paradigms-and-playbooks",
-    "sources/pi-sdd-existing-project-complete-playbook",
-    "sources/pi-sdd-existing-project-playbook-summary",
-    "syntheses/agent-driven-development-complete-guide",
-    "syntheses/pi-sdd-existing-project-playbook"
+  "concepts/三大范式": [
+    "concepts/Pi-SDD接手现有项目",
+    "concepts/已有项目操作手册",
+    "concepts/新项目操作手册",
+    "concepts/核心经验总结",
+    "sources/Pi-SDD完整操作方案",
+    "sources/十大核心经验",
+    "sources/范式与操作手册",
+    "syntheses/Pi-SDD接手现有项目综合",
+    "syntheses/完整指南",
+    "syntheses/核心经验综合"
   ],
-  "concepts/agent-dev-playbook-new-project": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-playbook-existing-project",
-    "concepts/agent-driven-development-paradigms",
-    "sources/agent-driven-development-paradigms-and-playbooks",
-    "syntheses/agent-driven-development-complete-guide"
+  "concepts/工具全景": [
+    "concepts/项目目录",
+    "entities/工具完整目录",
+    "entities/项目完整目录",
+    "sources/50+项目速查索引",
+    "syntheses/完整指南"
   ],
-  "concepts/agent-dev-project-catalog": [
-    "concepts/agent-dev-tool-landscape",
-    "entities/agent-dev-project-catalog",
-    "entities/agent-dev-tool-landscape",
-    "sources/agent-dev-project-catalog-50-plus",
-    "syntheses/agent-driven-development-complete-guide"
+  "concepts/已有项目操作手册": [
+    "concepts/Pi-SDD接手现有项目",
+    "concepts/三大范式",
+    "concepts/新项目操作手册",
+    "concepts/核心经验总结",
+    "sources/Pi-SDD完整操作方案",
+    "sources/Pi-SDD操作方案摘要",
+    "sources/范式与操作手册",
+    "syntheses/Pi-SDD接手现有项目综合",
+    "syntheses/完整指南"
   ],
-  "concepts/agent-dev-tool-landscape": [
-    "concepts/agent-dev-project-catalog",
-    "entities/agent-dev-project-catalog",
-    "entities/agent-dev-tool-landscape",
-    "sources/agent-dev-project-catalog-50-plus",
-    "syntheses/agent-driven-development-complete-guide"
+  "concepts/新项目操作手册": [
+    "concepts/三大范式",
+    "concepts/已有项目操作手册",
+    "concepts/核心经验总结",
+    "sources/范式与操作手册",
+    "syntheses/完整指南"
   ],
-  "concepts/agent-driven-development-paradigms": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-playbook-existing-project",
-    "concepts/agent-dev-playbook-new-project",
-    "concepts/pi-sdd-existing-project-playbook",
-    "sources/agent-dev-top-10-lessons",
-    "sources/agent-driven-development-paradigms-and-playbooks",
-    "sources/pi-sdd-existing-project-complete-playbook",
-    "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide",
-    "syntheses/pi-sdd-existing-project-playbook"
+  "concepts/核心经验总结": [
+    "concepts/Pi-SDD接手现有项目",
+    "concepts/三大范式",
+    "concepts/工具全景",
+    "concepts/已有项目操作手册",
+    "concepts/新项目操作手册",
+    "concepts/项目目录",
+    "entities/工具完整目录",
+    "entities/项目完整目录",
+    "sources/50+项目速查索引",
+    "sources/Pi-SDD完整操作方案",
+    "sources/Pi-SDD操作方案摘要",
+    "sources/十大核心经验",
+    "sources/范式与操作手册",
+    "syntheses/Pi-SDD接手现有项目综合",
+    "syntheses/完整指南",
+    "syntheses/核心经验综合"
   ],
-  "concepts/pi-sdd-existing-project-playbook": [
-    "syntheses/pi-sdd-existing-project-playbook"
+  "concepts/项目目录": [
+    "concepts/工具全景",
+    "entities/工具完整目录",
+    "entities/项目完整目录",
+    "sources/50+项目速查索引",
+    "syntheses/完整指南"
   ],
-  "entities/agent-dev-project-catalog": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-project-catalog",
-    "sources/agent-dev-project-catalog-50-plus"
+  "entities/工具完整目录": [
+    "concepts/工具全景",
+    "concepts/已有项目操作手册",
+    "concepts/新项目操作手册",
+    "concepts/核心经验总结"
   ],
-  "entities/agent-dev-tool-landscape": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-playbook-existing-project",
-    "concepts/agent-dev-playbook-new-project",
-    "concepts/agent-dev-tool-landscape"
+  "entities/项目完整目录": [
+    "concepts/核心经验总结",
+    "concepts/项目目录",
+    "sources/50+项目速查索引"
   ],
-  "sources/agent-dev-project-catalog-50-plus": [
-    "concepts/agent-dev-project-catalog",
-    "concepts/agent-dev-tool-landscape",
-    "entities/agent-dev-project-catalog",
-    "entities/agent-dev-tool-landscape",
-    "syntheses/agent-driven-development-complete-guide"
+  "sources/50+项目速查索引": [
+    "concepts/工具全景",
+    "concepts/项目目录",
+    "entities/工具完整目录",
+    "entities/项目完整目录",
+    "syntheses/完整指南"
   ],
-  "sources/agent-dev-top-10-lessons": [
-    "concepts/agent-dev-key-lessons",
-    "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide"
+  "sources/Pi-SDD完整操作方案": [
+    "concepts/Pi-SDD接手现有项目",
+    "sources/Pi-SDD操作方案摘要",
+    "syntheses/Pi-SDD接手现有项目综合"
   ],
-  "sources/agent-driven-development-paradigms-and-playbooks": [
-    "concepts/agent-dev-key-lessons",
-    "concepts/agent-dev-playbook-existing-project",
-    "concepts/agent-dev-playbook-new-project",
-    "concepts/agent-driven-development-paradigms",
-    "sources/agent-dev-top-10-lessons",
-    "syntheses/agent-dev-key-lessons",
-    "syntheses/agent-driven-development-complete-guide"
+  "sources/Pi-SDD操作方案摘要": [
+    "concepts/Pi-SDD接手现有项目",
+    "syntheses/Pi-SDD接手现有项目综合"
   ],
-  "sources/pi-sdd-existing-project-complete-playbook": [
-    "concepts/pi-sdd-existing-project-playbook",
-    "sources/pi-sdd-existing-project-playbook-summary",
-    "syntheses/pi-sdd-existing-project-playbook"
+  "sources/十大核心经验": [
+    "concepts/核心经验总结",
+    "syntheses/完整指南",
+    "syntheses/核心经验综合"
   ],
-  "sources/pi-sdd-existing-project-playbook-summary": [
-    "concepts/pi-sdd-existing-project-playbook",
-    "syntheses/pi-sdd-existing-project-playbook"
+  "sources/范式与操作手册": [
+    "concepts/三大范式",
+    "concepts/已有项目操作手册",
+    "concepts/新项目操作手册",
+    "concepts/核心经验总结",
+    "sources/十大核心经验",
+    "syntheses/完整指南",
+    "syntheses/核心经验综合"
   ],
-  "syntheses/agent-dev-key-lessons": [],
-  "syntheses/agent-driven-development-complete-guide": [
-    "concepts/agent-driven-development-paradigms"
+  "syntheses/Pi-SDD接手现有项目综合": [],
+  "syntheses/完整指南": [
+    "concepts/三大范式"
   ],
-  "syntheses/pi-sdd-existing-project-playbook": []
+  "syntheses/核心经验综合": []
 }

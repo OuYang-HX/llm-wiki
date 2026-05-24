@@ -4,32 +4,32 @@
 
 ## Concepts
 
-- [[concepts/agent-dev-key-lessons]] — Agent驱动开发核心经验 *(created: 2026-05-24)*
-- [[concepts/agent-dev-playbook-existing-project]] — 已有项目操作手册 *(created: 2026-05-24)*
-- [[concepts/agent-dev-playbook-new-project]] — 新项目操作手册 *(created: 2026-05-24)*
-- [[concepts/agent-dev-project-catalog]] — Agent驱动开发项目目录 *(created: 2026-05-24)*
-- [[concepts/agent-dev-tool-landscape]] — Agent编码工具全景 *(created: 2026-05-24)*
-- [[concepts/agent-driven-development-paradigms]] — Agent自主驱动开发三大范式 *(created: 2026-05-24)*
-- [[concepts/pi-sdd-existing-project-playbook]] — Pi SDD 接手现有项目（综合） *(created: 2026-05-24)*
+- [[concepts/工具全景]] — Agent编码工具全景 *(created: 2026-05-24)*
+- [[concepts/核心经验总结]] — Agent驱动开发核心经验 *(created: 2026-05-24)*
+- [[concepts/三大范式]] — Agent自主驱动开发三大范式 *(created: 2026-05-24)*
+- [[concepts/项目目录]] — Agent驱动开发项目目录 *(created: 2026-05-24)*
+- [[concepts/新项目操作手册]] — 新项目操作手册 *(created: 2026-05-24)*
+- [[concepts/已有项目操作手册]] — 已有项目操作手册 *(created: 2026-05-24)*
+- [[concepts/Pi-SDD接手现有项目]] — Pi SDD 接手现有项目（综合） *(created: 2026-05-24)*
 
 ## Entitys
 
-- [[entities/agent-dev-project-catalog]] — Agent驱动开发项目完整目录 *(created: 2026-05-24)*
-- [[entities/agent-dev-tool-landscape]] — Agent编码工具完整目录 *(created: 2026-05-24)*
+- [[entities/工具完整目录]] — Agent编码工具完整目录 *(created: 2026-05-24)*
+- [[entities/项目完整目录]] — Agent驱动开发项目完整目录 *(created: 2026-05-24)*
 
 ## Sources
 
-- [[sources/agent-dev-project-catalog-50-plus]] — "50+ Agent驱动开发项目速查索引" *(created: 2026-05-24)*
-- [[sources/agent-dev-top-10-lessons]] — "Agent驱动开发十大核心经验" *(created: 2026-05-24)*
-- [[sources/agent-driven-development-paradigms-and-playbooks]] — "Agent自主驱动开发范式与操作手册" *(created: 2026-05-24)*
-- [[sources/pi-sdd-existing-project-complete-playbook]] — Pi SDD 接手现有项目操作方案 *(created: 2026-05-24)*
-- [[sources/pi-sdd-existing-project-playbook-summary]] — "Pi SDD接手现有项目操作方案（摘要）" *(created: 2026-05-24)*
+- [[sources/50+项目速查索引]] — "50+ Agent驱动开发项目速查索引" *(created: 2026-05-24)*
+- [[sources/范式与操作手册]] — "Agent自主驱动开发范式与操作手册" *(created: 2026-05-24)*
+- [[sources/十大核心经验]] — "Agent驱动开发十大核心经验" *(created: 2026-05-24)*
+- [[sources/Pi-SDD操作方案摘要]] — "Pi SDD接手现有项目操作方案（摘要）" *(created: 2026-05-24)*
+- [[sources/Pi-SDD完整操作方案]] — Pi SDD 接手现有项目操作方案 *(created: 2026-05-24)*
 
 ## Synthesiss
 
-- [[syntheses/agent-dev-key-lessons]] — Agent驱动开发核心经验（综合） *(created: 2026-05-24)*
-- [[syntheses/agent-driven-development-complete-guide]] — Agent自主驱动开发：完整指南 *(created: 2026-05-24)*
-- [[syntheses/pi-sdd-existing-project-playbook]] — Pi SDD 接手现有项目（综合） *(created: 2026-05-24)*
+- [[syntheses/核心经验综合]] — Agent驱动开发核心经验（综合） *(created: 2026-05-24)*
+- [[syntheses/完整指南]] — Agent自主驱动开发：完整指南 *(created: 2026-05-24)*
+- [[syntheses/Pi-SDD接手现有项目综合]] — Pi SDD 接手现有项目（综合） *(created: 2026-05-24)*
 
 ---
-*Last updated: 2026-05-24T02:03:10.942Z* | *Total pages: 17*
+*Last updated: 2026-05-24T02:13:18.379Z* | *Total pages: 17*

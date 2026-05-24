@@ -1,7 +1,7 @@
 ---
 title: "Pi SDD接手现有项目操作方案（摘要）"
 type: source
-slug: pi-sdd-existing-project-playbook-summary
+slug: Pi-SDD操作方案摘要
 status: insight
 tags: [agent-dev, SDD, Pi, 操作指南]
 created: 2026-05-24
@@ -19,6 +19,6 @@ updated: 2026-05-24
 
 ## 相关页面
 
-- [[sources/pi-sdd-existing-project-complete-playbook|完整操作方案]]
-- [[concepts/agent-dev-playbook-existing-project|已有项目操作手册]]
-- [[concepts/agent-dev-key-lessons|核心经验总结]]
+- [[sources/Pi-SDD完整操作方案|完整操作方案]]
+- [[concepts/已有项目操作手册|已有项目操作手册]]
+- [[concepts/核心经验总结|核心经验总结]]
