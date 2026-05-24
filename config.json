@@ -1,7 +1,12 @@
 {
-  "name": "pending",
+  "name": "OuYang-HX 知识库",
   "mode": "personal",
-  "topic": "pending",
+  "topic": "Agent驱动开发与Pi-Agent使用",
   "created": "2026-05-23",
-  "version": "1.0"
+  "updated": "2026-05-24",
+  "version": "1.0",
+  "sync": {
+    "remote": "git@github.com:OuYang-HX/llm-wiki.git",
+    "branch": "main"
+  }
 }

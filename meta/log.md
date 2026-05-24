@@ -56,3 +56,16 @@
 
 ## [2026-05-24T02:03:10.943Z] rebuild_meta
 
+## [2026-05-24T02:13:18.380Z] rebuild_meta
+
+## [2026-05-24T03:00:52.061Z] ensure_page
+- page_type: "concept", title: "Pi-Agent 使用习惯", path: "concepts/pi-agent"
+
+## [2026-05-24T03:10:31.891Z] ensure_page
+- page_type: "concept", title: "Pi-Agent安装配置（Termux）", path: "concepts/pi-agenttermux"
+
+## [2026-05-24T03:11:00.396Z] rebuild_meta
+
+## [2026-05-24T03:11:09.703Z] lint
+- orphans: 4, missing_pages: 10, contradictions: 0, auto_fix: false
+

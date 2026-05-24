@@ -1,7 +1,23 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T02:13:18.379Z",
+  "last_updated": "2026-05-24T03:31:37.100Z",
   "pages": {
+    "concepts/Pi-Agent使用习惯": {
+      "type": "concept",
+      "title": "Pi-Agent 使用习惯",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "tags": "[pi-agent, 使用习惯, 工作流, 跨平台]"
+    },
+    "concepts/Pi-Agent安装配置（Termux）": {
+      "type": "concept",
+      "title": "Pi-Agent 安装配置（Termux）",
+      "created": "2026-05-24",
+      "updated": "2026-05-24",
+      "env": "termux",
+      "tags": "[pi-agent, termux, android, 环境专有, 安装配置]",
+      "relates": "\"[[Pi-Agent使用习惯]]\""
+    },
     "concepts/Pi-SDD接手现有项目": {
       "type": "concept",
       "title": "Pi SDD 接手现有项目（综合）",
