@@ -31,3 +31,7 @@
 {"timestamp":"2026-05-24T13:43:45.006Z","kind":"lint","orphans":6,"missing_pages":19,"contradictions":0,"auto_fix":true}
 {"timestamp":"2026-05-24T13:43:54.507Z","kind":"retro","slug":"termux-config-backup-github","title":"Termux 配置备份同步到 GitHub","category":"termux"}
 {"timestamp":"2026-05-24T13:52:47.619Z","kind":"rebuild_meta"}
+{"timestamp":"2026-05-24T18:36:59.988Z","kind":"retro","slug":"ssh-termux-remote-connection","title":"SSH 连接远程 Termux 设备","category":"devops"}
+{"timestamp":"2026-05-28T18:17:55.667Z","kind":"retro","slug":"herdr-confirm-close-scope","title":"herdr confirm_close 仅覆盖 workspace","category":"devops"}
+{"timestamp":"2026-05-28T18:18:09.226Z","kind":"retro","slug":"termux-macro-ctrl-key-encoding","title":"Termux macro CTRL 修饰键的编码行为","category":"devops"}
+{"timestamp":"2026-05-28T18:18:34.606Z","kind":"retro","slug":"bash-read-ifs-space-trimming","title":"bash read 会吃掉前导空格","category":"devops"}

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T13:52:47.615Z",
+  "last_updated": "2026-05-28T18:18:34.609Z",
   "pages": {
     "concepts/Pi-Agent使用习惯": {
       "type": "concept",
@@ -33,6 +33,13 @@
       "updated": "2026-05-24",
       "sources": "[]",
       "status": "stub"
+    },
+    "concepts/SSH-连接": {
+      "type": "concept",
+      "title": "SSH 连接",
+      "created": "2026-05-25",
+      "updated": "2026-05-25",
+      "tags": "[ssh, 远程连接]"
     },
     "concepts/Termux 配置备份": {
       "type": "concept",
@@ -154,12 +161,30 @@
     "sources/SRC-2026-05-24-001": {
       "type": "source",
       "title": "Termux 环境迁移指南",
-      "created": "2026-05-24",
+      "created": "2026-05-28",
       "updated": "2026-05-24",
       "source_id": "SRC-2026-05-24-001",
       "captured": "2026-05-24",
       "tags": "[termux, backup, migration, android, 环境迁移]",
       "relates": "\"[[Pi-Agent安装配置（Termux）]], [[Termux 配置备份]]\""
+    },
+    "sources/bash-read-ifs-space-trimming": {
+      "type": "source",
+      "title": "\"bash read 会吃掉前导空格\"",
+      "created": "2026-05-28",
+      "updated": "2026-05-28",
+      "slug": "bash-read-ifs-space-trimming",
+      "status": "insight",
+      "category": "devops"
+    },
+    "sources/herdr-confirm-close-scope": {
+      "type": "source",
+      "title": "\"herdr confirm_close 仅覆盖 workspace\"",
+      "created": "2026-05-28",
+      "updated": "2026-05-28",
+      "slug": "herdr-confirm-close-scope",
+      "status": "insight",
+      "category": "devops"
     },
     "sources/termux-config-backup-github": {
       "type": "source",
@@ -169,6 +194,15 @@
       "slug": "termux-config-backup-github",
       "status": "insight",
       "category": "termux"
+    },
+    "sources/termux-macro-ctrl-key-encoding": {
+      "type": "source",
+      "title": "\"Termux macro CTRL 修饰键的编码行为\"",
+      "created": "2026-05-28",
+      "updated": "2026-05-28",
+      "slug": "termux-macro-ctrl-key-encoding",
+      "status": "insight",
+      "category": "devops"
     },
     "sources/wiki-env-scoping": {
       "type": "source",

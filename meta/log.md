@@ -91,3 +91,17 @@
 ## [2026-05-24T13:43:54.507Z] retro
 - slug: "termux-config-backup-github", title: "Termux 配置备份同步到 GitHub", category: "termux"
 
+## [2026-05-24T13:52:47.619Z] rebuild_meta
+
+## [2026-05-24T18:36:59.988Z] retro
+- slug: "ssh-termux-remote-connection", title: "SSH 连接远程 Termux 设备", category: "devops"
+
+## [2026-05-28T18:17:55.667Z] retro
+- slug: "herdr-confirm-close-scope", title: "herdr confirm_close 仅覆盖 workspace", category: "devops"
+
+## [2026-05-28T18:18:09.226Z] retro
+- slug: "termux-macro-ctrl-key-encoding", title: "Termux macro CTRL 修饰键的编码行为", category: "devops"
+
+## [2026-05-28T18:18:34.606Z] retro
+- slug: "bash-read-ifs-space-trimming", title: "bash read 会吃掉前导空格", category: "devops"
+

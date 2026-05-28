@@ -8,6 +8,7 @@
 - [[concepts/Pi-Agent安装配置（Termux）]] — Pi-Agent 安装配置（Termux） *(created: 2026-05-24)*
 - [[concepts/Pi-SDD接手现有项目]] — Pi SDD 接手现有项目（综合） *(created: 2026-05-24)*
 - [[concepts/SRC-2026-05-24-001]] — SRC-2026-05-24-001 *(created: 2026-05-24)*
+- [[concepts/SSH-连接]] — SSH 连接 *(created: 2026-05-25)*
 - [[concepts/termux]] — Termux 配置备份 *(created: 2026-05-24)*
 - [[concepts/Termux 配置备份]] — Termux 配置备份 *(created: 2026-05-24)*
 - [[concepts/Termux 额外键盘配置]] — Termux 额外键盘配置 *(created: 2026-05-24)*
@@ -26,10 +27,13 @@
 ## Sources
 
 - [[sources/50+项目速查索引]] — "50+ Agent驱动开发项目速查索引" *(created: 2026-05-24)*
+- [[sources/bash-read-ifs-space-trimming]] — "bash read 会吃掉前导空格" *(created: 2026-05-28)*
+- [[sources/herdr-confirm-close-scope]] — "herdr confirm_close 仅覆盖 workspace" *(created: 2026-05-28)*
 - [[sources/Pi-SDD完整操作方案]] — Pi SDD 接手现有项目操作方案 *(created: 2026-05-24)*
 - [[sources/Pi-SDD操作方案摘要]] — "Pi SDD接手现有项目操作方案（摘要）" *(created: 2026-05-24)*
-- [[sources/SRC-2026-05-24-001]] — Termux 环境迁移指南 *(created: 2026-05-24)*
+- [[sources/SRC-2026-05-24-001]] — Termux 环境迁移指南 *(created: 2026-05-28)*
 - [[sources/termux-config-backup-github]] — "Termux 配置备份同步到 GitHub" *(created: 2026-05-24)*
+- [[sources/termux-macro-ctrl-key-encoding]] — "Termux macro CTRL 修饰键的编码行为" *(created: 2026-05-28)*
 - [[sources/wiki-env-scoping]] — "Wiki 环境标注规范：多平台同步的知识拆分" *(created: 2026-05-24)*
 - [[sources/十大核心经验]] — "Agent驱动开发十大核心经验" *(created: 2026-05-24)*
 - [[sources/范式与操作手册]] — "Agent自主驱动开发范式与操作手册" *(created: 2026-05-24)*
@@ -41,4 +45,4 @@
 - [[syntheses/核心经验综合]] — Agent驱动开发核心经验（综合） *(created: 2026-05-24)*
 
 ---
-*Last updated: 2026-05-24T13:52:47.615Z* | *Total pages: 26*
+*Last updated: 2026-05-28T18:18:34.609Z* | *Total pages: 30*

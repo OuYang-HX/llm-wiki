@@ -10,6 +10,7 @@
     "syntheses/Pi-SDD接手现有项目综合"
   ],
   "concepts/SRC-2026-05-24-001": [],
+  "concepts/SSH-连接": [],
   "concepts/Termux 配置备份": [],
   "concepts/Termux 额外键盘配置": [],
   "concepts/termux": [
@@ -107,7 +108,10 @@
   "sources/SRC-2026-05-24-001": [
     "concepts/Termux 配置备份"
   ],
+  "sources/bash-read-ifs-space-trimming": [],
+  "sources/herdr-confirm-close-scope": [],
   "sources/termux-config-backup-github": [],
+  "sources/termux-macro-ctrl-key-encoding": [],
   "sources/wiki-env-scoping": [],
   "sources/十大核心经验": [
     "concepts/核心经验总结",
